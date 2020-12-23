@@ -1,9 +1,5 @@
 # RecSysProject
 ### Tasks
-#### Assignments will be graded based on their coverage of the following five components. Examples of what might
-be included in these sections and previous assignment examples shall be described in more detail in class. Each
-of the five sections below will contribute approximately 5 percent of your grade, for a total of 25 percent for
-the whole assignment.
 1. Identify a dataset to study, and perform an exploratory analysis of the data. Describe the dataset,
 including its basic statistics and properties, and report any interesting findings. This exploratory analysis
 should motivate the design of your model in the following sections. Datasets should be reasonably large
